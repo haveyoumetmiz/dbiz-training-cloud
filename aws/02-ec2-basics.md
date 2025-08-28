@@ -11,3 +11,10 @@
 ```bash
 chmod 400 my-key.pem
 ssh -i "my-key.pem" ec2-user@<public-ip>
+```
+
+Learnings
+
+EBS persists even after instance termination
+
+Difference between Running, Stopped, and Terminated states
