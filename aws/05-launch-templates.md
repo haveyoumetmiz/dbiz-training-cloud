@@ -1,5 +1,5 @@
 ### `05-launch-templates.md`
-```markdown
+
 # AWS Launch Templates  
 
 ## Steps Performed
